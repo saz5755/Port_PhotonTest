@@ -1,0 +1,4 @@
+Photon 메모
+
+MonoBehaviourPun은 override를 쓸수 없고 
+MonoBehaviourPunCallbacks는 가능        /// NetworkManager처럼
